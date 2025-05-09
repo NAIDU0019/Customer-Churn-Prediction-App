@@ -16,6 +16,20 @@ Customer retention is a key driver of profitability in subscription-based busine
 
 ---
 
+## 🗃️ Source Dataset
+
+This project uses the [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from **Kaggle**, which contains demographic, account, and service usage information of a telecom company's customers.
+
+**Dataset Highlights:**
+
+* 7,043 customer records
+* Features include tenure, contract type, billing methods, and service usage
+* Binary target: `Churn` (Yes/No)
+
+Credit: [Telco Customer Churn Dataset by IBM](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+---
+
 ## 🎯 Key Features
 
 * ✅ **User-Friendly Interface:** Streamlit-based UI for quick predictions.
@@ -142,4 +156,5 @@ Final Year B.Tech | Data Scientist | ML Engineer
 This project is released under the MIT License.
 
 ---
+
 
