@@ -20,10 +20,10 @@ st.markdown("Upload customer data in CSV format to predict who is likely to chur
 
 # File uploader
 uploaded_file = st.file_uploader("📁 Upload CSV file", type=["csv"])
-@st.cache
+@st.cache_data
 def load_data(file):
     return pd.read_csv(file)
-@st.cache
+@st.cache_data
 def preprocess_data(df):
     # Your preprocessing code here
     return df_encoded
