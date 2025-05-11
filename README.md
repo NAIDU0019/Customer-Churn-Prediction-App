@@ -3,7 +3,7 @@
 # 📉 Customer Churn Prediction App
 
 A production-ready web application that predicts customer churn using a machine learning model trained on telco user behavior. Built with **Streamlit** for interactivity and deployed with scalable considerations, this project demonstrates applied machine learning, data preprocessing, and model deployment in a business-critical context.
-
+VISIT LIVE :https://churnpredicter.streamlit.app/
 ---
 
 ## 🚀 Overview
